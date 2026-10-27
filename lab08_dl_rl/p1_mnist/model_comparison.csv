@@ -1,0 +1,4 @@
+Model,Test_Accuracy
+"DNN - Baseline (128, relu, lr=1e-3)",0.9844444394111633
+Logistic Regression,0.9622222222222222
+Random Forest,0.9688888888888889

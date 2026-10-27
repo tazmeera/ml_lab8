@@ -1,0 +1,7 @@
+Config,Solved,Avg_Path_Moves,Optimal_Moves,Avg_Final_Reward,Episodes_To_95pct_Success
+"alpha=0.1, gamma=0.99 (base)",5/5,18.4,18,8.795679999999999,91.4
+"alpha=0.5, gamma=0.99",5/5,18.0,18,8.808919999999997,95.2
+"alpha=0.01, gamma=0.99",5/5,18.0,18,8.779639999999999,122.4
+"alpha=0.1, gamma=0.90",5/5,18.0,18,8.79744,94.0
+"alpha=0.1, eps_decay=0.9995",5/5,18.0,18,6.564519999999999,192.2
+"alpha=0.1, eps_decay=0.99",5/5,18.0,18,9.156479999999998,7.6
